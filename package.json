@@ -1,0 +1,15 @@
+{
+  "name": "task3-login",
+  "version": "1.0.0",
+  "description": "Simple login simulation using Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
